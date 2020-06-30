@@ -96,7 +96,6 @@ For community support and further learning as well as list of policies and right
   - Policies and Regulations:
     -[All McGill Policies](https://www.mcgill.ca/secretariat/policies-and-regulations)
     -[Most Recent Policy on Harassment & Discrimination](https://www.mcgill.ca/emergency/files/emergency/harassment-sexual-harassment-discrimination-policy-on.pdf)
-      -McGill's definition of harassment as per the policy: “"any vexatious behaviour by one Member of the University Community towards another Member of the University Community in the form of repeated hostile or unwanted conduct, verbal comments, actions or gestures, that affect the dignity or psychological or physical integrity of a Member of the University Community and that result in a harmful environment for such an individual. Within the employment relationship, a single serious incidence of such behaviour that has a lasting harmful effect on such an individual may also constitute Harassment."
     -[Older Policy on Harassment & Discrimination](https://www.mcgill.ca/secretariat/files/secretariat/policy_on_harassment_and_discrimination.pdf)
     -[Basic Outline of Student's Rights and Responsibilities](https://www.mcgill.ca/students/srr/personalrights/harassment#:~:text=The%20University%20recognizes%20that%20such,and%20Discrimination%20Prohibited%20by%20Law.)
     -
