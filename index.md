@@ -95,9 +95,12 @@ For community support and further learning as well as list of policies and right
 
 - Policies and Regulations:
   - [All McGill Policies](https://www.mcgill.ca/secretariat/policies-and-regulations)
-  - [Most Recent Policy on Harassment & Discrimination](https://www.mcgill.ca/emergency/files/emergency/harassment-sexual-harassment-discrimination-policy-on.pdf)
-  - [Older Policy on Harassment & Discrimination](https://www.mcgill.ca/secretariat/files/secretariat/policy_on_harassment_and_discrimination.pdf)
+  - Harassment Policies:
+    - [Most Recent Policy on Harassment & Discrimination](https://www.mcgill.ca/emergency/files/emergency/harassment-sexual-harassment-discrimination-policy-on.pdf)
+    - [Older Policy on Harassment & Discrimination](https://www.mcgill.ca/secretariat/files/secretariat/policy_on_harassment_and_discrimination.pdf)
   - [Basic Outline of Student's Rights and Responsibilities](https://www.mcgill.ca/students/srr/personalrights/harassment#:~:text=The%20University%20recognizes%20that%20such,and%20Discrimination%20Prohibited%20by%20Law.)
+  - [Senior Equity & Inclusion Advisor](https://www.mcgill.ca/how-to-report/about-contact/seia)
+    -"The Senior Equity & Inclusion Advisor (SEIA) oversees the integration of equity work at the University—such as programming, resource development, and the intake of complaints—under the guidance of McGill’s Policy on Harassment and Discrimination Prohibited by Law. The SEIA is also the intake person for reports filed through McGill's Policy against Sexual Violence and ensures that such reports are submitted to a duly qualified external special investigator"
     
 
 
