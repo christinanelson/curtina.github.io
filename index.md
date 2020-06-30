@@ -94,10 +94,10 @@ For community support and further learning as well as list of policies and right
       - "Non-profit, student-run, bilingual and free legal information service...provides legal information, referrals, and community services to the McGill and Montreal communities, with a continuing commitment to meeting the needs of marginalized groups"
 
 - Policies and Regulations:
-  -[All McGill Policies](https://www.mcgill.ca/secretariat/policies-and-regulations)
-  -[Most Recent Policy on Harassment & Discrimination](https://www.mcgill.ca/emergency/files/emergency/harassment-sexual-harassment-discrimination-policy-on.pdf)
-  -[Older Policy on Harassment & Discrimination](https://www.mcgill.ca/secretariat/files/secretariat/policy_on_harassment_and_discrimination.pdf)
-  -[Basic Outline of Student's Rights and Responsibilities](https://www.mcgill.ca/students/srr/personalrights/harassment#:~:text=The%20University%20recognizes%20that%20such,and%20Discrimination%20Prohibited%20by%20Law.)
+  - [All McGill Policies](https://www.mcgill.ca/secretariat/policies-and-regulations)
+  - [Most Recent Policy on Harassment & Discrimination](https://www.mcgill.ca/emergency/files/emergency/harassment-sexual-harassment-discrimination-policy-on.pdf)
+  - [Older Policy on Harassment & Discrimination](https://www.mcgill.ca/secretariat/files/secretariat/policy_on_harassment_and_discrimination.pdf)
+  - [Basic Outline of Student's Rights and Responsibilities](https://www.mcgill.ca/students/srr/personalrights/harassment#:~:text=The%20University%20recognizes%20that%20such,and%20Discrimination%20Prohibited%20by%20Law.)
     
 
 
