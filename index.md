@@ -42,6 +42,7 @@ For community support and further learning as well as list of policies and right
   - [Student wellness hub](https://www.mcgill.ca/wellness-hub/)
     - For students' holistic health and wellness needs. It provides access to basic physical and mental health services, as well as health promotion and peer support programs
   - [Empower Me](http://studentcare.ca/rte/en/McGillUniversityundergraduatestudentsSSMU_EmpowerMe_EmpowerMe)
+    - "Empower me is a mental health and wellness service that seeks to contribute to a resilient student community by supporting existing on-campus and Studentcare mental health resources. Empower Me allows students to connect with qualified counsellors, consultants, and life coaches for a variety of issues."
   - [Health Services and Resources for Postdoctoral Scholars](https://pgss.mcgill.ca/en/health-and-wellness-committee)
   - [McGill Students' Nightline](https://nightline.ssmu.ca/)
   - [Resources for staff](https://www.mcgill.ca/hr/benefits)
@@ -74,6 +75,8 @@ For community support and further learning as well as list of policies and right
   - [The Office of the Dean of Students](http://mcgill.ca/deanofstudents)
   - [The Office of the Ombudsperson for Students](https://www.mcgill.ca/ombudsperson/)
     - "The Office of the Ombudsperson for Students offers confidential, informal, independent, and impartial dispute resolution services to all members of the student community by providing information, advice, intervention and referrals."
+  - [Anti-Racism Resources](https://www.mcgill.ca/equity/resources/anti-black-racism-resources/anti-racism)
+    - Provides "self-care and educational resources relating to anti-racism"
 
 - Societies, Associations, and Support Communities at McGill
   - Indigenous:
@@ -104,7 +107,7 @@ For community support and further learning as well as list of policies and right
     - [Charter of Student's Rights](https://www.mcgill.ca/secretariat/files/secretariat/charter_of_student_rights_last_approved_october_262017.pdf)
        - "The charter details the fundamental rights and freedoms for students at McGill"
     - [Rights and Responsibilities Inside and Outside the Classroom](https://www.mcgill.ca/students/srr/)
-  - (Code of Conduct & Disciplinary Procedures)[https://www.mcgill.ca/secretariat/files/secretariat/code_of_student_conduct_and_disciplinary_procedures.pdf]
+  - [Code of Conduct & Disciplinary Procedures](https://www.mcgill.ca/secretariat/files/secretariat/code_of_student_conduct_and_disciplinary_procedures.pdf)
     - pertinent sections: Section 1.B-10; 3.A-40
   - [Sexual Violence](https://www.mcgill.ca/secretariat/files/secretariat/policy_against_sexual_violence.pdf)
   - Whistle Blowing and Safe Disclosure
@@ -136,6 +139,8 @@ For community support and further learning as well as list of policies and right
   
 ### National Rights and Resources
 
+- [National Society of Black Physicists](https://www.nsbp.org/)
+
 ### Funding Agencies
 
 - NSERC
@@ -153,6 +158,11 @@ For community support and further learning as well as list of policies and right
     
 ### Resources for Learning 
 
+- [A Literature Review on Unconscious Bias in Faculty and Leadership Recruitment (2009)](https://www.aamc.org/system/files/reports/1/aibvol9no2.pdf)
+- [Article on Race, racialization and Indigeneity in Canadian universities](http://howardramos.ca/index_htm_files/Henry%20et%20al%202016.pdf)
+  - "This article is based on data from a four-year national study of racialization and Indigeneity at Canadian universities. Its main conclusion is that whether one examines representation in terms of numbers of racialized and Indigenous faculty members and their positioning within the system, their earned income as compared to white faculty, their daily life experiences within the university as workplace, or interactions with colleagues and students, the results are more or less the same. Racialized and Indigenous faculty and the disciplines or areas of their expertise are, on the whole, low in numbers and even lower in terms of power, prestige, and influence within the University."
+- [EPOD Resources Related to BLM](https://docs.google.com/document/d/19WTkgOhWXnSVOHcENb-x82pmWX4qAUcJgwdySlnnpjE/edit)
+- [Active Bystanders Resources](http://web.mit.edu/bystanders/strategies/)
 
   
   
