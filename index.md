@@ -59,6 +59,7 @@ For community support and further learning as well as list of policies and right
     - [Harrassment and Discrimination](https://mcgill.ca/how-to-report/harassment-discrimination)
     - [Sexual Violence](https://mcgill.ca/how-to-report/sexual-violence/filing-report)
     - [Senior Equity & Inclusion Advsior](https://www.mcgill.ca/how-to-report/about-contact/seia)
+      - "The Senior Equity & Inclusion Advisor (SEIA) oversees the integration of equity work at the University—such as programming, resource development, and the intake of complaints—under the guidance of McGill’s Policy on Harassment and Discrimination Prohibited by Law. The SEIA is also the intake person for reports filed through McGill's Policy against Sexual Violence and ensures that such reports are submitted to a duly qualified external special investigator"
 
 - Equity, Diversity and Inclusion Resources
   - [Equity at McGill](https://www.mcgill.ca/equity/)
@@ -103,9 +104,19 @@ For community support and further learning as well as list of policies and right
     - [Charter of Student's Rights](https://www.mcgill.ca/secretariat/files/secretariat/charter_of_student_rights_last_approved_october_262017.pdf)
        - "The charter details the fundamental rights and freedoms for students at McGill"
     - [Rights and Responsibilities Inside and Outside the Classroom](https://www.mcgill.ca/students/srr/)
-  - [Senior Equity & Inclusion Advisor](https://www.mcgill.ca/how-to-report/about-contact/seia)
-    - "The Senior Equity & Inclusion Advisor (SEIA) oversees the integration of equity work at the University—such as programming, resource development, and the intake of complaints—under the guidance of McGill’s Policy on Harassment and Discrimination Prohibited by Law. The SEIA is also the intake person for reports filed through McGill's Policy against Sexual Violence and ensures that such reports are submitted to a duly qualified external special investigator"
- 
+  - [Sexual Violence](https://www.mcgill.ca/secretariat/files/secretariat/policy_against_sexual_violence.pdf)
+  - Whistle Blowing and Safe Disclosure
+    - [Outline of Policy](https://www.mcgill.ca/secretariat/policies-and-regulations/safe-disclosure-whistle-blowing-reporting)
+    - [Official Policy](https://www.mcgill.ca/secretariat/files/secretariat/safedisclosure-policyon.pdf) 
+    - [How to make a complaint](https://protecteurducitoyen.qc.ca/en/make-a-complaint/how-to-make-a-complaint)
+    - "The Policy provides for an impartial channel for good faith reporting of Improper Activities (Whistle Blowing) and protection from reprisal for those who make such reports."
+    - "Any member can file a complaint. All you need is: what behavior & who, & where/when if possible."
+  - Alchohol and Drugs
+    - [General Policy Website](https://www.mcgill.ca/alcoholpolicy/)
+    - [Specific Policy](https://www.mcgill.ca/secretariat/files/secretariat/policy_concerning_alcohol_cannabis_and_other_drugs.pdf)
+  
     
+  
+   
 
 
