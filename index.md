@@ -104,16 +104,24 @@ For community support and further learning as well as list of policies and right
     - [Charter of Student's Rights](https://www.mcgill.ca/secretariat/files/secretariat/charter_of_student_rights_last_approved_october_262017.pdf)
        - "The charter details the fundamental rights and freedoms for students at McGill"
     - [Rights and Responsibilities Inside and Outside the Classroom](https://www.mcgill.ca/students/srr/)
+  - (Code of Conduct & Disciplinary Procedures)[https://www.mcgill.ca/secretariat/files/secretariat/code_of_student_conduct_and_disciplinary_procedures.pdf]
+    - pertinent sections: Section 1.B-10; 3.A-40
   - [Sexual Violence](https://www.mcgill.ca/secretariat/files/secretariat/policy_against_sexual_violence.pdf)
   - Whistle Blowing and Safe Disclosure
     - [Outline of Policy](https://www.mcgill.ca/secretariat/policies-and-regulations/safe-disclosure-whistle-blowing-reporting)
     - [Official Policy](https://www.mcgill.ca/secretariat/files/secretariat/safedisclosure-policyon.pdf) 
+      - "The Policy provides for an impartial channel for good faith reporting of Improper Activities (Whistle Blowing) and protection from reprisal for those who make such reports."
     - [How to make a complaint](https://protecteurducitoyen.qc.ca/en/make-a-complaint/how-to-make-a-complaint)
-    - "The Policy provides for an impartial channel for good faith reporting of Improper Activities (Whistle Blowing) and protection from reprisal for those who make such reports."
-    - "Any member can file a complaint. All you need is: what behavior & who, & where/when if possible."
+    - Note that any member can file a complaint. All you need is: what behavior & who, & where/when if possible
   - Alchohol and Drugs
     - [General Policy Website](https://www.mcgill.ca/alcoholpolicy/)
     - [Specific Policy](https://www.mcgill.ca/secretariat/files/secretariat/policy_concerning_alcohol_cannabis_and_other_drugs.pdf)
+  - [Employment Equity Policy](https://www.mcgill.ca/secretariat/files/secretariat/employment-equity-policy.pdf)
+  
+  
+### Provincial Rights and Resources
+
+  
   
     
   
