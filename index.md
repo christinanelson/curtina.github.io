@@ -139,7 +139,21 @@ For community support and further learning as well as list of policies and right
   
 ### National Rights and Resources
 
+- [General Webpage for Diversity and Inclusion](https://www.canada.ca/en/government/publicservice/wellness-inclusion-diversity-public-service/diversity-inclusion-public-service.html)
+  - Much of this is related to working public service jobs for the Canadian government, but there are additional resources and links to specific policies along with actions the government is taking. 
+- [Gender Based Analysis +](https://cfc-swc.gc.ca/gba-acs/index-en.html)
+  - "GBA+ is an analytical process used to assess how diverse groups of women, men and non-binary people may experience policies, programs and initiatives. The “plus” in GBA+ acknowledges that GBA goes beyond biological (sex) and socio-cultural (gender) differences."
+- [Rights Pertaining to Workpace Discrimination][https://www.canada.ca/en/government/publicservice/wellness-inclusion-diversity-public-service/diversity-inclusion-public-service/working-government-canada-duty-accommodate-right-non-discrimination.html]
+- [Canadian Human Rights Act](https://laws-lois.justice.gc.ca/eng/acts/h-6/)
+- [2019 Addendum to 2006 Canadian Human Rights Settlement Agreement](https://www.chairs-chaires.gc.ca/program-programme/equity-equite/2019_addendum-eng.aspx)
+- [LGBTQ2](https://www.canada.ca/en/canadian-heritage/campaigns/free-to-be-me.html)
+  - "Information and resources related to the Government of Canada's work to improve equality for LGBTQ2 communities through the promotion of human rights and the development of inclusive federal policies, programs and laws."
+- [Guide on Balancing Work with Caregiving](https://www.chrc-ccdp.gc.ca/eng/content/guide-balancing-work-and-caregiving-obligations)
+  - Guide outlines your rights and responsibilities, along with that of your employer, if you need to care for a given family member.
+- [Reports and Publications on Federal Labour Standards](https://www.canada.ca/en/employment-social-development/services/labour-standards/reports.html)
+  - Publications include those on: harassment and sexual violence in the workplace, leave for traditional Indigenous practices, filing a complaint, etc.
 - [National Society of Black Physicists](https://www.nsbp.org/)
+
 
 ### Funding Agencies
 
@@ -163,7 +177,8 @@ For community support and further learning as well as list of policies and right
   - "This article is based on data from a four-year national study of racialization and Indigeneity at Canadian universities. Its main conclusion is that whether one examines representation in terms of numbers of racialized and Indigenous faculty members and their positioning within the system, their earned income as compared to white faculty, their daily life experiences within the university as workplace, or interactions with colleagues and students, the results are more or less the same. Racialized and Indigenous faculty and the disciplines or areas of their expertise are, on the whole, low in numbers and even lower in terms of power, prestige, and influence within the University."
 - [EPOD Resources Related to BLM](https://docs.google.com/document/d/19WTkgOhWXnSVOHcENb-x82pmWX4qAUcJgwdySlnnpjE/edit)
 - [Active Bystanders Resources](http://web.mit.edu/bystanders/strategies/)
-
+- [Mentoring for Diversity and Inclusion](https://cfe.unc.edu/2018/10/mentoring-for-diversity-and-inclusion/)
+  - Webpage by UNC on mentoring women and facuty of color in academia. Also includes a list of sources relevant to this topic.
   
   
     
