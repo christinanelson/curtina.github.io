@@ -177,8 +177,13 @@ For community support and further learning as well as list of policies and right
   - "This article is based on data from a four-year national study of racialization and Indigeneity at Canadian universities. Its main conclusion is that whether one examines representation in terms of numbers of racialized and Indigenous faculty members and their positioning within the system, their earned income as compared to white faculty, their daily life experiences within the university as workplace, or interactions with colleagues and students, the results are more or less the same. Racialized and Indigenous faculty and the disciplines or areas of their expertise are, on the whole, low in numbers and even lower in terms of power, prestige, and influence within the University."
 - [EPOD Resources Related to BLM](https://docs.google.com/document/d/19WTkgOhWXnSVOHcENb-x82pmWX4qAUcJgwdySlnnpjE/edit)
 - [Active Bystanders Resources](http://web.mit.edu/bystanders/strategies/)
+- [Resources on Mentoring for Advisees and Mentees](https://www.brown.edu/academics/gradschool/academics-research/graduate-advising-and-mentoring/advising-and-mentoring-resources-students/resourc)
+  - Resource provided by Brown University with multiple links for different mentoring guides from varying Universities. Provides guides both for faculty and for students. 
+- [Mentoring Best Practices](https://www.albany.edu/academics/mentoring.best.practices.chapter3.shtml)
+  - A handbook by the University of Albany on mentoring practices. 
 - [Mentoring for Diversity and Inclusion](https://cfe.unc.edu/2018/10/mentoring-for-diversity-and-inclusion/)
   - Webpage by UNC on mentoring women and facuty of color in academia. Also includes a list of sources relevant to this topic.
+
   
   
     
