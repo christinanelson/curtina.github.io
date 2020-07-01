@@ -95,7 +95,7 @@ For community support and further learning as well as list of policies and right
       - "Non-profit, student-run, bilingual and free legal information service...provides legal information, referrals, and community services to the McGill and Montreal communities, with a continuing commitment to meeting the needs of marginalized groups"
 
 - Policies and Regulations:
-  - [All McGill Policies](https://www.mcgill.ca/secretariat/policies-and-regulations)
+  - [Base for All McGill Policies](https://www.mcgill.ca/secretariat/policies-and-regulations)
   - Harassment and Discrimination Policies:
     - [Most Recent Policy on Harassment & Discrimination](https://www.mcgill.ca/emergency/files/emergency/harassment-sexual-harassment-discrimination-policy-on.pdf)
     - [Older Policy on Harassment & Discrimination](https://www.mcgill.ca/secretariat/files/secretariat/policy_on_harassment_and_discrimination.pdf)
@@ -120,6 +120,17 @@ For community support and further learning as well as list of policies and right
   
   
 ### Provincial Rights and Resources
+
+- [Definiton of Human Rights](http://www.cdpdj.qc.ca/en/droits-de-la-personne/Pages/default.aspx)
+- [Quebec Student Union](https://unionetudiante.ca)
+- [Black Community Resource Centre](https://bcrcmontreal.com)
+- [Action Sante Travesti(e)s & Transsexual(le)s du Quebec](http://www.astteq.org)
+  - "ASTT(e)Q aims to promote the health and well-being of trans people through peer support and advocacy, education and outreach, and community empowerment and mobilization"
+  
+### National Rights and Resources
+
+### Resources for Learning 
+
 
   
   
