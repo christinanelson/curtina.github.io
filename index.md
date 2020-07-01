@@ -126,9 +126,31 @@ For community support and further learning as well as list of policies and right
 - [Black Community Resource Centre](https://bcrcmontreal.com)
 - [Action Sante Travesti(e)s & Transsexual(le)s du Quebec](http://www.astteq.org)
   - "ASTT(e)Q aims to promote the health and well-being of trans people through peer support and advocacy, education and outreach, and community empowerment and mobilization"
+- [Day Shelter](https://resiliencemontreal.com)
+- [Black Indigenous Harm Reduction Alliance](https://www.blackindigenousharmredux.org)
+  - "The Black Indigenous Harm Reduction Alliance is a group of community workers of diverse experience who wish to draw attention to the need for access to self-determined and holistic health services within our communities. Our work seeks to develop harm reduction approaches that meet our communities where they are at, and to expand understandings of harm reduction to include environmental violence, and the criminalization of youth, sex workers, street-involved peoples, and LGBTQ2S people."
+- [Migrant Rights Network](https://migrantrights.ca)
+  - "The Migrant Rights Network is a cross-Canada alliance to combat racism and fight for migrant justice. We are a network of self-organized groups of refugees and migrants and allies."
+- [Free Legal Services](https://www.cjsm.ca/mission/)
+
   
 ### National Rights and Resources
 
+### Funding Agencies
+
+- NSERC
+  - [Equity, Diversity and Inclusion Requirements and Practices](https://www.chairs-chaires.gc.ca/program-programme/equity-equite/index-eng.aspx)
+  - [A Best Practices Guide for Recruitment, Hiring and Retention](https://www.chairs-chaires.gc.ca/program-programme/equity-equite/best_practices-pratiques_examplaires-eng.aspx)
+  - [Charter](https://www.nserc-crsng.gc.ca/NSERC-CRSNG/EDI-EDI/Dimensions-Charter_Dimensions-Charte_eng.asp)
+
+- FRQ
+  - [General Page on Equity, Diversity and Inclusion](http://www.scientifique-en-chef.gouv.qc.ca/en/dossiers/equite-diversite-et-inclusion/)
+  - [Events](http://www.scientifique-en-chef.gouv.qc.ca/en/dossiers/equite-diversite-et-inclusion/evenements/)
+  - [Measures](http://www.scientifique-en-chef.gouv.qc.ca/en/dossiers/equite-diversite-et-inclusion/measures/)
+  - [Publications](http://www.scientifique-en-chef.gouv.qc.ca/en/dossiers/equite-diversite-et-inclusion/publications/)
+  - [SAGA-UNESCO project in Québec](http://www.scientifique-en-chef.gouv.qc.ca/en/dossiers/equite-diversite-et-inclusion/projet-saga/)
+    - "SAGA (STEM and Gender Advancement) is a UNESCO project supported by the Government of Sweden through the Swedish International Development Cooperation Agency. The general objective of SAGA is to contribute to reducing the gender gap in science, technology, engineering and mathematics (STEM) fields in all countries and at all levels of education and research."
+    
 ### Resources for Learning 
 
 
