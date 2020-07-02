@@ -186,6 +186,12 @@ For community support and further learning as well as list of policies and right
 - [Mentoring for Diversity and Inclusion](https://cfe.unc.edu/2018/10/mentoring-for-diversity-and-inclusion/)
   - Webpage by UNC on mentoring women and facuty of color in academia. Also includes a list of sources relevant to this topic.
 
+
+### Career Resources / Advice
+
+- [Astro Better](https://www.astrobetter.com/wiki/Wiki+Home)
+  - List of resources for astronomers on computing, astronomical methods, one's career, institutional information, technical communication, project and team management, networking, equity & inclusion, and miscellany & fun.
+
   
   
     
