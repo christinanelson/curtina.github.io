@@ -77,6 +77,10 @@ For community support and further learning as well as list of policies and right
     - "The Office of the Ombudsperson for Students offers confidential, informal, independent, and impartial dispute resolution services to all members of the student community by providing information, advice, intervention and referrals."
   - [Anti-Racism Resources](https://www.mcgill.ca/equity/resources/anti-black-racism-resources/anti-racism)
     - Provides "self-care and educational resources relating to anti-racism"
+  - [Local Wellness Officers](https://www.mcgill.ca/lwa)
+  - [Peer support center](https://psc.ssmu.ca)
+    - "The Peer Support Centre (PSC) is a student-run service of the Students’ Society of McGill University (SSMU). We provide free, one-on-one, confidential and non-judgmental peer support and resource referral to all McGill students."
+  - [Office for Scholarships and Student Aid](mcgill.ca/studentaid)
 
 - Societies, Associations, and Support Communities at McGill
   - Indigenous:
@@ -92,6 +96,9 @@ For community support and further learning as well as list of policies and right
     - [Black Students' Network of McGill](https://www.facebook.com/BlackStudentsNetworkOfMcGill/)
     - [McGill Black Alumni Association](https://myalumni.mcgill.ca/s/1762/gid2/interior-connect.aspx?pgid=1610&gid=2)
     - [McGill African Students’ Society](https://massmcgill.wixsite.com/mass)
+    
+  - Religious:
+    - [McGill Office of Religious and Spiritual Life](mcgill.ca/morsl)
    
   - Legal services:
     - [Legal Information Clinic at McGill](https://licm.ca/)
@@ -121,20 +128,41 @@ For community support and further learning as well as list of policies and right
     - [Specific Policy](https://www.mcgill.ca/secretariat/files/secretariat/policy_concerning_alcohol_cannabis_and_other_drugs.pdf)
   - [Employment Equity Policy](https://www.mcgill.ca/secretariat/files/secretariat/employment-equity-policy.pdf)
   
-  
+
 ### Provincial Rights and Resources
 
-- [Definiton of Human Rights](http://www.cdpdj.qc.ca/en/droits-de-la-personne/Pages/default.aspx)
-- [Quebec Student Union](https://unionetudiante.ca)
-- [Black Community Resource Centre](https://bcrcmontreal.com)
-- [Action Sante Travesti(e)s & Transsexual(le)s du Quebec](http://www.astteq.org)
-  - "ASTT(e)Q aims to promote the health and well-being of trans people through peer support and advocacy, education and outreach, and community empowerment and mobilization"
-- [Day Shelter](https://resiliencemontreal.com)
-- [Black Indigenous Harm Reduction Alliance](https://www.blackindigenousharmredux.org)
-  - "The Black Indigenous Harm Reduction Alliance is a group of community workers of diverse experience who wish to draw attention to the need for access to self-determined and holistic health services within our communities. Our work seeks to develop harm reduction approaches that meet our communities where they are at, and to expand understandings of harm reduction to include environmental violence, and the criminalization of youth, sex workers, street-involved peoples, and LGBTQ2S people."
-- [Migrant Rights Network](https://migrantrights.ca)
-  - "The Migrant Rights Network is a cross-Canada alliance to combat racism and fight for migrant justice. We are a network of self-organized groups of refugees and migrants and allies."
-- [Free Legal Services](https://www.cjsm.ca/mission/)
+- Rights:
+  - [Definiton of Human Rights](http://www.cdpdj.qc.ca/en/droits-de-la-personne/Pages/default.aspx)
+  
+- Socities and Unions:
+  - [Quebec Student Union](https://unionetudiante.ca)
+  - [Black Community Resource Centre](https://bcrcmontreal.com)
+  - [Action Sante Travesti(e)s & Transsexual(le)s du Quebec](http://www.astteq.org)
+    - "ASTT(e)Q aims to promote the health and well-being of trans people through peer support and advocacy, education and outreach, and community empowerment and mobilization"
+  - [Day Shelter](https://resiliencemontreal.com)
+  - [Black Indigenous Harm Reduction Alliance](https://www.blackindigenousharmredux.org)
+    - "The Black Indigenous Harm Reduction Alliance is a group of community workers of diverse experience who wish to draw attention to the need for access to self-determined and holistic health services within our communities. Our work seeks to develop harm reduction approaches that meet our communities where they are at, and to expand understandings of harm reduction to include environmental violence, and the criminalization of youth, sex workers, street-involved peoples, and LGBTQ2S people."
+  - [Migrant Rights Network](https://migrantrights.ca)
+    - "The Migrant Rights Network is a cross-Canada alliance to combat racism and fight for migrant justice. We are a network of self-organized groups of refugees and migrants and allies."
+  
+- Services and Hotlines:
+  - [Free Legal Services](https://www.cjsm.ca/mission/)
+  - Sexual Assault Hotline in Montreal
+    - 514-933-9007
+  - Sexual Assault Hotline in Quebec
+    - 1-888-933-9007
+  - [Suicide Action Montreal](suicideactionmontreal.org/en)
+    - "24/7 Phone support to individuals experiencing suicidal thoughts. Also support individuals who are concerned for the safety of others."
+    - 1-866-277-3553
+  - [TAO](taoconnect.org)
+    - "Online program to address issues related to anxiety and depression. (McGill student email address required to log in)"
+  - [Tel-Aide](telaide.org/en)
+    - "Listening support service:
+    - 514-935-1101
+  - [7 Cups](7cups.com)
+    - "Online support service for emotional distress."
+  - [Vent Over Tea](ventovertea.com/en)
+    - "Active listening service pairing people to chat in a local coffee shop."
 
   
 ### National Rights and Resources
@@ -174,6 +202,8 @@ For community support and further learning as well as list of policies and right
 
 - [Astro Better](https://www.astrobetter.com/wiki/tiki-index.php?page=Diversity)
   - List of resources for astronomers on diversity and equity in STEM. The various sections with links are: *Diversity 101: The Basics, Show me the Data: Statistics & Studies on Under-Representation, On Race & White Privilege, On Gender Disparity & Sexism, On Intersectionality, On LGBTQIA+, On Ableism and Disability Justice, On Classism, On Being Privileged and how to be a good Ally, On Education, What to do!, Training,* and *Teaching Equity Concepts in the Astro/Physics Classroom*. 
+- [Free Courses to Help You Become a Stronger Ally and Have Inclusive Conversations](https://learning.linkedin.com/blog/linkedin-learning-resources/free-courses-to-help-you-become-a-stronger-ally-and-have-inclusi)
+  - Free for all of 2020. Courses will help you to: understand and confront unconscious bias, have inclusive conversations and communicate across cultures, and create diverse and inclusive workplaces.
 - [A Literature Review on Unconscious Bias in Faculty and Leadership Recruitment (2009)](https://www.aamc.org/system/files/reports/1/aibvol9no2.pdf)
 - [Article on Race, racialization and Indigeneity in Canadian universities](http://howardramos.ca/index_htm_files/Henry%20et%20al%202016.pdf)
   - "This article is based on data from a four-year national study of racialization and Indigeneity at Canadian universities. Its main conclusion is that whether one examines representation in terms of numbers of racialized and Indigenous faculty members and their positioning within the system, their earned income as compared to white faculty, their daily life experiences within the university as workplace, or interactions with colleagues and students, the results are more or less the same. Racialized and Indigenous faculty and the disciplines or areas of their expertise are, on the whole, low in numbers and even lower in terms of power, prestige, and influence within the University."
