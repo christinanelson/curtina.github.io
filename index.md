@@ -221,6 +221,12 @@ For community support and further learning as well as list of policies and right
 
 - [Astro Better](https://www.astrobetter.com/wiki/Wiki+Home)
   - List of resources for astronomers on computing, astronomical methods, one's career, institutional information, technical communication, project and team management, networking, equity & inclusion, and miscellany & fun.
+  
+  
+### Additional Resources
+
+- [TAMIA resources](https://www.tamiastronomy.org/resources/)
+  - EDI related resources from TAMIA (Towards More Inclusive Astronomy). Lists articles on the following topics: race, gender within the binary, gender outside the binary, sexuality, economic class, ableism and neurodiversity, harrassment/assault, and weight discrimination.
 
   
   
