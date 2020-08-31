@@ -80,7 +80,7 @@ For community support and further learning as well as list of policies and right
   - [Local Wellness Officers](https://www.mcgill.ca/lwa)
   - [Peer support center](https://psc.ssmu.ca)
     - "The Peer Support Centre (PSC) is a student-run service of the Students’ Society of McGill University (SSMU). We provide free, one-on-one, confidential and non-judgmental peer support and resource referral to all McGill students."
-  - [Office for Scholarships and Student Aid](mcgill.ca/studentaid)
+  - [Office for Scholarships and Student Aid](https://mcgill.ca/studentaid)
 
 - Societies, Associations, and Support Communities at McGill
   - Indigenous:
@@ -98,7 +98,7 @@ For community support and further learning as well as list of policies and right
     - [McGill African Students’ Society](https://massmcgill.wixsite.com/mass)
     
   - Religious:
-    - [McGill Office of Religious and Spiritual Life](mcgill.ca/morsl)
+    - [McGill Office of Religious and Spiritual Life](https://mcgill.ca/morsl)
    
   - Legal services:
     - [Legal Information Clinic at McGill](https://licm.ca/)
