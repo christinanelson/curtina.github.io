@@ -163,6 +163,12 @@ For community support and further learning as well as list of policies and right
     - "Online support service for emotional distress."
   - [Vent Over Tea](ventovertea.com/en)
     - "Active listening service pairing people to chat in a local coffee shop."
+    
+- Documentation on inclusive writing in french
+  - Office québécois de la langue française
+    - [PDF / Powerpoint](https://www.oqlf.gouv.qc.ca/redaction-epicene/20180112_formation-redaction-epicene.pdf)
+    - [general website](http://bdl.oqlf.gouv.qc.ca/bdl/gabarit_bdl.asp?Th=1&Th_id=274)
+  - [Rédaction inclusive by Druide](https://www.druide.com/fr/enquetes/redaction-inclusive)
 
   
 ### National Rights and Resources
@@ -225,7 +231,7 @@ For community support and further learning as well as list of policies and right
   
 ### Additional Resources
 
-- [TAMIA resources](https://www.tamiastronomy.org/resources/)
+- [TaMIA resources](https://www.tamiastronomy.org/resources/)
   - EDI related resources from TAMIA (Towards More Inclusive Astronomy). Lists articles on the following topics: race, gender within the binary, gender outside the binary, sexuality, economic class, ableism and neurodiversity, harrassment/assault, and weight discrimination.
 
   
