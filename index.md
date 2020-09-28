@@ -151,17 +151,17 @@ For community support and further learning as well as list of policies and right
     - 514-933-9007
   - Sexual Assault Hotline in Quebec
     - 1-888-933-9007
-  - [Suicide Action Montreal](suicideactionmontreal.org/en)
+  - [Suicide Action Montreal](https://suicideactionmontreal.org/en/)
     - "24/7 Phone support to individuals experiencing suicidal thoughts. Also support individuals who are concerned for the safety of others."
     - 1-866-277-3553
-  - [TAO](taoconnect.org)
+  - [TAO](https://www.taoconnect.org)
     - "Online program to address issues related to anxiety and depression. (McGill student email address required to log in)"
-  - [Tel-Aide](telaide.org/en)
+  - [Tel-Aide](http://www.telaide.org/en/)
     - "Listening support service:
     - 514-935-1101
-  - [7 Cups](7cups.com)
+  - [7 Cups](https://www.7cups.com)
     - "Online support service for emotional distress."
-  - [Vent Over Tea](ventovertea.com/en)
+  - [Vent Over Tea](https://ventovertea.com/en/)
     - "Active listening service pairing people to chat in a local coffee shop."
     
 - Documentation on inclusive writing in french
