@@ -24,6 +24,8 @@ For community support and further learning as well as list of policies and right
 
 - [Undergraduate Advisors](https://www.physics.mcgill.ca/ugrads/advsched.html)
   - Contact for academic guidance, information on scholarships, as well as support and referrals in cases of academic or personal difficulty
+  
+- [Physics Department Parental Leave Policy] (https://wipmcgill.wixsite.com/wipmcgill/parental-leave-1)
 
 ### Faculty of Science
 
